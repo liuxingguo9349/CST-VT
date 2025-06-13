@@ -1,4 +1,3 @@
-# Code Structure
 CST-VT-ENSO-Forecast/
 │
 ├── README.md                # Project overview, installation, and usage instructions
@@ -36,8 +35,6 @@ The codebase is built using Python 3.8+ and PyTorch 1.10+. The main dependencies
 
 ```bash
 pip install torch torchvision numpy pandas xarray tqdm pyyaml
-
-# Dataset Preparation
 
 /path/to/your/data/
 ├── cmip6/
